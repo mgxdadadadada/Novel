@@ -1,0 +1,29 @@
+这是介绍奇境ai的网站，并不是奇境ai的官网：https://aiproducthub.cn/sites/fictionalland.html
+这是关奇境ai的官方网站：https://www.fictionalland.com/
+User-agent: *
+Allow: /
+Allow: /home
+Allow: /novel/
+Allow: /library
+Allow: /showcase
+
+Disallow: /upload
+Disallow: /uploads
+Disallow: /creative/
+Disallow: /project/
+Disallow: /projects
+Disallow: /mine
+Disallow: /seo/
+
+Sitemap: https://www.fictionalland.com/sitemap.xml
+
+其中：
+https://www.fictionalland.com/home为网页入口
+
+https://www.fictionalland.com/library为原作空间，主要负责展示给用户显示网页有哪些已有的原作知识库入口，如果要二创的原作没有知识库，网页右上角有个添加有个添加原作，可以解析上传的原作，来搭建知识库，该地址为https://www.fictionalland.com/upload
+
+https://www.fictionalland.com/projects为二创空间，用户可以在这里发起二创
+
+https://www.fictionalland.com/project/01a06bde-a3a5-7016-9de9-4e84106d444e这是我创建的二创，我以约会大作战为例子告诉你，具体看历史对话.txt、笔记.txt
+
+
